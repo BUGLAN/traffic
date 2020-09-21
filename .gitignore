@@ -1,0 +1,6 @@
+__pycache__
+.idea
+.vscode
+*.gif
+.py[cod]
+.DS_Store
